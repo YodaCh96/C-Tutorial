@@ -1,3 +1,10 @@
+/*
+Lesson: 03
+Filename: exercise_1.c
+Author: Ioannis Christodoulakis
+Creation Date: 22.07.2023
+*/
+
 #include <stdio.h>
 
 int main()
