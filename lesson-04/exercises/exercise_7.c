@@ -11,23 +11,24 @@ int main()
 {
 	int etos;
 	
-	printf("Eisagete etos: ");
-	scanf("%d", &etos);
-
-	if (etos%4==0)
+	printf("Dose etos: ");
+	scanf("%d",&etos);
+	
+	if(etos%4==0)
 	{
-		if (etos%100==0 && etos%400==0)
+		if(etos%100==0)
 		{
-			printf("Den einai disekto!");
+			if(etos%400==0)
+				printf("Einai disekto!\n");
+			else
+				printf("Den einai disekto!\n");
 		}
-		else
-		{
-			printf("Einai disekto!");
-		}
+		else 
+			printf("Einai disekto!\n");
 	}
-	else
+	else 
 	{
-		printf("Den einai disekto!");
+		printf("Den einai disekto!\n");
 	}
 	
 	return 0;
