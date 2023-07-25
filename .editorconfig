@@ -4,7 +4,7 @@
 root = true
 
 # 4 space indentation
-# Indentation override for all JS under lib directory
+# Indentation override for all C under lesson-xx directory
 [lesson-*/**.c]
 indent_style = space
 indent_size = 4
