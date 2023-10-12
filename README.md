@@ -1,1 +1,31 @@
 # C Tutorial
+
+-[x] Syntax
+-[x] Output
+-[x] Comments
+-[x] Variables
+-[ ] Data Types
+-[ ] Constants
+-[ ] Operators
+-[ ] Booleans
+-[ ] If...Else
+-[ ] Switch
+-[ ] While Loop
+-[ ] For Loop
+-[ ] Break/Continue
+-[ ] Arrays
+-[ ] Strings
+-[ ] User Input
+-[ ] Memory Address
+-[ ] Pointers
+-[ ] Functions
+-[ ] Function Parameters
+-[ ] Function Declaration
+-[ ] Recursion
+-[ ] Math Functions
+-[ ] Create Files
+-[ ] Write To Files
+-[ ] Read Files
+-[ ] Structures
+-[ ] Enums
+-[ ] Examples
