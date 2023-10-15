@@ -4,21 +4,21 @@
 - [x] Output
 - [x] Comments
 - [x] Variables
-- [ ] Data Types
-- [ ] Constants
+- [x] Data Types
+- [x] Constants
 - [ ] Operators
-- [ ] Booleans
-- [ ] If...Else
-- [ ] Switch
-- [ ] While Loop
-- [ ] For Loop
-- [ ] Break/Continue
-- [ ] Arrays
+- [x] Booleans
+- [x] If...Else
+- [x] Switch
+- [x] While Loop
+- [x] For Loop
+- [x] Break/Continue
+- [x] Arrays
 - [ ] Strings
 - [ ] User Input
-- [ ] Memory Address
-- [ ] Pointers
-- [ ] Functions
+- [x] Memory Address
+- [x] Pointers
+- [x] Functions
 - [ ] Function Parameters
 - [ ] Function Declaration
 - [ ] Recursion
